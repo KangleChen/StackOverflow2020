@@ -22,3 +22,7 @@ The survey data is stored in directory 'data'.
 ## Licensing, Authors, Acknowledgements
 
 Must give credit to Stack Overflow for the data. Otherwise, feel free to use the code here as you would like!
+
+
+## Medium Blog Post
+Here is the Medium blog post: https://kangle-chen1103.medium.com/which-programming-language-should-i-learn-e6af2ae24a44
